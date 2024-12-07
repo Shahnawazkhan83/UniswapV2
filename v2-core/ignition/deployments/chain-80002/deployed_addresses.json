@@ -1,0 +1,5 @@
+{
+  "UniswapV2ERC20Module#UniswapV2ERC20": "0x2FEE9Cea2234645a4945E0Fd8352D2a1c26569a7",
+  "UniswapV2FactoryModule#UniswapV2Factory": "0xd53Db1eE7a82db7dFB6875352a0A6C9a93d6F245",
+  "UniswapV2PairModule#UniswapV2Pair": "0x5fB4B5d4Fd53c7819FA98d283269817c82553306"
+}
